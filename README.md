@@ -8,5 +8,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanajadhavv&count_private=true&hide=html,scss,,ejs&theme=cobalt&line_height=10">
 
 </p>
-
-[![Sanjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjanajadhavv&show_icons=true&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
