@@ -4,4 +4,6 @@
 
 [![Sanjana Jadhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjanajadhavv&show_icons=true&bg_color=DEG,ddd6f3,faaca8#gh-light-mode-only)](https://github.com/sanjanajadhavv/github-readme-stats#gh-light-mode-only)
 
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=sanjanajadhavv&combine_all_yearly_contributions=true)
+
 ![](https://komarev.com/ghpvc/?username=sanjanajadhavv&color=dc143c&&style=flat)
