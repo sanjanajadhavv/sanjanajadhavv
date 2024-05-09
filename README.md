@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sanjana Jadhav</h1>
-<h3 align="center">I'm a passionate Full-Stack Developer with a love for UI/UX Design and Machine Learning.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanajadhavv&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanajadhavv" /> </p>
+<h1 align="left">Hi 👋, I'm Sanjana Jadhav</h1>
+<h3 align="left">I'm a passionate Full-Stack Developer with a love for UI/UX Design and Machine Learning.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjanajadhavv" alt="sanjanajadhavv" /></a> </p>
 
-- 🔭 I’m currently working on **my Personal Portfolio!**
+- 🔭 I’m currently working on: **my Personal Portfolio!**
 
-- 🌱 I’m currently learning **AWS (CCP), Angular, Spring**
+- 🌱 I’m currently learning: **AWS (CCP), Angular, Spring**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanjanajadhavv?tab=repositories](https://github.com/sanjanajadhavv?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/sanjanajadhavv](https://github.com/sanjanajadhavv?tab=repositories)
 
-- 📫 How to reach me **sanjanajadhavvv@gmail.com**
+- 📫 How to reach me: **sanjanajadhavvv@gmail.com**
 
-- ⚡ Fun fact **I love watching crime/legal dramas!**
+- ⚡ Fun fact: **I love watching crime/legal dramas!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,8 +23,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanajadhavv&show_icons=true&locale=en&layout=compact" alt="sanjanajadhavv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjanajadhavv&show_icons=true&locale=en" alt="sanjanajadhavv" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjanajadhavv&show_icons=true&locale=en" alt="sanjanajadhavv" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanajadhavv&" alt="sanjanajadhavv" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanajadhavv&" alt="sanjanajadhavv" /></p>
 
 ![](https://komarev.com/ghpvc/?username=sanjanajadhavv&color=dc143c&&style=flat)
