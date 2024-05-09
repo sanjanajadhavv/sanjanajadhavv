@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjanajadhavv" alt="sanjanajadhavv" /></a> </p>
 
-- 🔭 I’m currently working on: **my Personal Portfolio!**
+- 🦋 I’m currently working on: **my Personal Portfolio!**
 
-- 🌱 I’m currently learning: **AWS (CCP), Angular, Spring**
+- 🌱 I’m currently learning: **AWS (CCP), Angular, Spring :)**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/sanjanajadhavv](https://github.com/sanjanajadhavv?tab=repositories)
+- 👩🏽‍💻 All of my projects are available at: [https://github.com/sanjanajadhavv](https://github.com/sanjanajadhavv?tab=repositories)
 
-- 📫 How to reach me: **sanjanajadhavvv@gmail.com**
+- 📧 How to reach me: **sanjanajadhavvv@gmail.com**
 
 - ⚡ Fun fact: **I love watching crime/legal dramas!**
 
