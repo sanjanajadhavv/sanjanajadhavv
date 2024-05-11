@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **AWS (CCP), Angular, and Spring :)**
 
-- 👩🏽‍💻 All of my projects are available at: [https://github.com/sanjanajadhavv](https://github.com/sanjanajadhavv?tab=repositories)
+- 👩🏽‍💻 All of my projects are available at: [**https://github.com/sanjanajadhavv**](https://github.com/sanjanajadhavv?tab=repositories)
 
 - 📧 How to reach me: **sanjanajadhavvv@gmail.com**
 
