@@ -7,7 +7,7 @@
 
 - 🦋 I’m currently working on: **my Personal Portfolio!**
 
-- 🌱 I’m currently learning: **AWS (CCP), Angular, Spring :)**
+- 🌱 I’m currently learning: **AWS (CCP), Angular, and Spring :)**
 
 - 👩🏽‍💻 All of my projects are available at: [https://github.com/sanjanajadhavv](https://github.com/sanjanajadhavv?tab=repositories)
 
