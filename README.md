@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Sanjana Jadhav</h2>
+<h2 align="left">Hi 👋, I'm Sanjana Jadhav!</h2>
 <h3 align="left">I'm a passionate Full-Stack Developer with a love for UI/UX Design and Machine Learning.</h3>
 
 - 🦋 I’m currently working on: **my Personal Portfolio!**
