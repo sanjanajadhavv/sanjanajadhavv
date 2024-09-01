@@ -1,7 +1,5 @@
-<h1 align="left">Hi 👋, I'm Sanjana Jadhav</h1>
+<h2 align="left">Hi 👋, I'm Sanjana Jadhav</h2>
 <h3 align="left">I'm a passionate Full-Stack Developer with a love for UI/UX Design and Machine Learning.</h3>
-
-![](https://komarev.com/ghpvc/?username=sanjanajadhavv&color=dc143c&&style=flat)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjanajadhavv" alt="sanjanajadhavv" /></a> </p>
 
@@ -23,3 +21,5 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjanajadhavv&show_icons=true&locale=en" alt="sanjanajadhavv" /></p> -->
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanajadhavv&" alt="sanjanajadhavv" /></p>
+
+![](https://komarev.com/ghpvc/?username=sanjanajadhavv&color=dc143c&&style=flat)
