@@ -1,9 +1,11 @@
 <h2 align="left">Hi 👋, I'm Sanjana Jadhav!</h2>
 <h3 align="left">I'm a passionate Full-Stack Developer with a love for UI/UX Design and Machine Learning.</h3>
 
-- 🦋 I’m currently working on: **my Personal Portfolio!**
+- 🦋 I’m currently working on: **Sola!**
 
-- 🌱 I’m currently learning: **AWS (CCP), Angular, and Spring :)**
+- 🌱 I’m currently learning: **Applied AI + LLM Engineering**
+
+- 🌐 Visit my portfolio: [**https://sanjanajadhavv.dev/](https://sanjanajadhavv.dev/)
 
 - 👩🏽‍💻 All of my projects are available at: [**https://github.com/sanjanajadhavv**](https://github.com/sanjanajadhavv?tab=repositories)
 
